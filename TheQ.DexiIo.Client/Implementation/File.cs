@@ -3,7 +3,7 @@
 	/// <summary>
 	///     Cloud Scrape File DTO
 	/// </summary>
-	internal class File
+	public class File
 	{
 		/// <summary>
 		///     Constructor

@@ -10,7 +10,7 @@ namespace TheQ.DexiIo.Client.Implementation
 	/// <summary>
 	///     Cloud Scrape Execution DTO class
 	/// </summary>
-	internal class Execution
+	public class Execution
 	{
 		public const string Queued = "QUEUED";
 		public const string Pending = "PENDING";
@@ -55,7 +55,7 @@ namespace TheQ.DexiIo.Client.Implementation
 	/// <summary>
 	///     Cloud Scrape Execution List DTO
 	/// </summary>
-	internal class ExecutionList
+	public class ExecutionList
 	{
 		/// <summary>
 		///     off set

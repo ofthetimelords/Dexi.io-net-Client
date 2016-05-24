@@ -8,7 +8,7 @@ namespace TheQ.DexiIo.Client.Implementation
 	/// <summary>
 	///     Execute Cloud Scrape request
 	/// </summary>
-	internal class ExecutionsProvider
+	public class ExecutionsProvider
 	{
 		public ExecutionsProvider(DexiIoProcessor processor)
 		{

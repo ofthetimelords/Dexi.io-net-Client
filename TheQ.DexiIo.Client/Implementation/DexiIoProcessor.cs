@@ -11,7 +11,7 @@ namespace TheQ.DexiIo.Client.Implementation
 	/// <summary>
 	///     Cloud Scrape Client
 	/// </summary>
-	internal class DexiIoProcessor
+	public class DexiIoProcessor
 	{
 		private readonly string _accessKey;
 		private readonly string _accountId;

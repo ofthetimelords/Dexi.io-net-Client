@@ -3,7 +3,7 @@
 	/// <summary>
 	///     Cloud Scrape Result DTO
 	/// </summary>
-	internal class Result
+	public class Result
 	{
 		public string[] Headers { get; set; }
 

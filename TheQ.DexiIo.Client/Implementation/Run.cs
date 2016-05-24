@@ -6,7 +6,7 @@ namespace TheQ.DexiIo.Client.Implementation
 	/// <summary>
 	///     Cloud Scrape Run DTO
 	/// </summary>
-	internal class Run
+	public class Run
 	{
 		/// <summary>
 		///     The ID of the run

@@ -8,7 +8,7 @@ namespace TheQ.DexiIo.Client.Implementation
 	/// <summary>
 	///     Run Cloud Scrape robots
 	/// </summary>
-	internal class RunsProvider
+	public class RunsProvider
 	{
 		/// <summary>
 		///     Constructor

@@ -3,7 +3,7 @@
 
 namespace TheQ.DexiIo.Client
 {
-	internal class DexiIoClient
+	public class DexiIoClient
 	{
 		public DexiIoClient(string apiKey, string accountId)
 		{
