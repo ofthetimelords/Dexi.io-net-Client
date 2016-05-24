@@ -1,0 +1,16 @@
+{
+	"version": "0.9.0-*",
+	"title": "C# Dexi.io Client",
+	"releaseNotes": "Preliminary release. Works, but use at your own risk!",
+	"description": "Dexi.io C# Client",
+	"authors": [ "James Kavakopoulos", "Elvis Ligu" ],
+	"tags": [ "" ],
+	"projectUrl": "",
+	"licenseUrl": "",
+	"frameworks": {
+		"net451": { }
+	},
+	"dependencies": {
+		"Newtonsoft.Json": "8.0.3"
+	}
+}
